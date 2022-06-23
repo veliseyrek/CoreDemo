@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\VeliSeyrekProject\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\CoreDemo\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
       "projectName": "CoreLayer",
-      "projectPath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\VeliSeyrekProject\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\CoreDemo\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\VeliSeyrekProject\\CoreDemo\\CoreLayer\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\CoreDemo\\CoreDemo\\CoreLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

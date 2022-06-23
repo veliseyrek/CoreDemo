@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "017ODkQS3pHK2FfnczfaV/oy/ugLImx0kCflUfYCmaBMXcwaX35egrW3dbqjqPIsS/X8rNXhJK+xjmFOVlNqWA==",
+  "dgSpecHash": "Gv5bbbPQ3yjGsK2719zm97+bCgTzE71TJkL7HPZ3G8qfTqP2eiiDt4VSQwfRWyu7fWiXhodA0YKlHjJszB7QHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\VeliSeyrekProject\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\CoreDemo\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\documentformat.openxml\\2.7.2\\documentformat.openxml.2.7.2.nupkg.sha512",

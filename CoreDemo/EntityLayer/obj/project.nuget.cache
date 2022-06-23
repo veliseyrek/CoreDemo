@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z3J+frx8qPVeporqs5DOu7RdtjVCqmbpHJP4b+o6ixdJsM0ucD35IrhbPa8E/K/0id2at7D1WHSeuznkPDsPeg==",
+  "dgSpecHash": "ZtIXKL6+xpN8jsXy1sJI/J4+jqeJnZ9YhNudf2do8I+KOM5NQ5laOsACmgqXv/17TwRmgXKVP8w0umXUZ3s0nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\VeliSeyrekProject\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Veli Seyrek\\CoreDemo\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
