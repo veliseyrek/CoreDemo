@@ -424,3 +424,7 @@ C:\Users\hp\Desktop\Veli Seyrek\CoreDemo\CoreDemo\CoreDemo\obj\Debug\net5.0\refi
 C:\Users\hp\Desktop\Veli Seyrek\CoreDemo\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.pdb
 C:\Users\hp\Desktop\Veli Seyrek\CoreDemo\CoreDemo\CoreDemo\obj\Debug\net5.0\CoreDemo.genruntimeconfig.cache
 C:\Users\hp\Desktop\Veli Seyrek\CoreDemo\CoreDemo\CoreDemo\obj\Debug\net5.0\ref\CoreDemo.dll
+C:\Users\hp\Desktop\Veli Seyrek\CoreDemo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Widget\Index.cshtml.g.cs
+C:\Users\hp\Desktop\Veli Seyrek\CoreDemo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\Statistic1\Default.cshtml.g.cs
+C:\Users\hp\Desktop\Veli Seyrek\CoreDemo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\Statistic2\Default.cshtml.g.cs
+C:\Users\hp\Desktop\Veli Seyrek\CoreDemo\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Components\Statistic4\Default.cshtml.g.cs
